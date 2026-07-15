@@ -3,10 +3,13 @@ equipes = []
 
 
 
-equipes.append("Inicial")
+equipes.append("equipe equipada")
 
-equipes.append("Teste")
+equipes.append("Ana Julia besta")
 
-equipes.append("Adson")
+equipes.append("Alessandra")
+
+equipes.append("Rafael")
 
 print(equipes)
+
