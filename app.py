@@ -1,12 +1,12 @@
 
-equipes = []
+equipes = [Equipe XX]
 
 
 
-equipes.append("Inicial")
+equipes.append("iSABELlE")
 
-equipes.append("Teste")
+equipes.append("mAIAe")
 
-equipes.append("Adson")
+equipes.append("Gugan")
 
 print(equipes)
